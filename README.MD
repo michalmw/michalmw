@@ -8,7 +8,7 @@ I'm a Front End Developer and I love it. I really like challenges. So far, most 
 
 * 🌍  I'm based in Gilowice, Poland
 * 🖥️  See my portfolio at [terminal](http://frontem.io)
-* ✉️  You can contact me at [michal@surprise.design](mailto:michal@surprise.design)
+* ✉️  You can contact me at [michal@wizards.space](mailto:michal@wizards.space)
 * 🧠  I'm learning Astro
 * 🤝  I'm open to collaborating on AI project
 * ⚡  I'm love my cat too...
